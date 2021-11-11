@@ -1,0 +1,12 @@
+{
+  "name": "polygot-grpc-node-client",
+  "version": "1.0.0",
+  "description": "understand grpc by connecting node client to go server",
+  "main": "node-client.js",
+  "repository": "https://github.com/pranoyk/polygot-grpc",
+  "license": "MIT",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.4.4",
+    "@grpc/proto-loader": "^0.5.3"
+  }
+}
